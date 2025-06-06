@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import HomePage from "./pages/HomePage";
 import LoginPage from "./pages/LoginPage";
 import WatchlistPage from "./pages/WatchlistPage";
+import PlayerDetailPage from "./pages/PlayerDetailPage";
 
 const App = () => {
   return (
